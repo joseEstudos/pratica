@@ -25,3 +25,4 @@ nova linha jose dev
 Anjos (Pra quem tem fé)
 linha add visutal studios coode
 merge brach teste vscode
+conflito
