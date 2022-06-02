@@ -52,6 +52,4 @@ Abre os braços vem e me namora
 Eu quero dar vazão ao sentimento
 Mostrar que é lindo o que eu sinto por dentro
 Beleza essa que eu te canto agora
-Abre os braços, vem e me namora
-merge vscode 2
-conflito dev.estudos15
+conflito
