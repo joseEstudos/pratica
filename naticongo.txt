@@ -1,3 +1,4 @@
+git config
 Naticongo
 Tinha a coragem e a calma de um Rei
 Os mais ferozes mares enfrentou

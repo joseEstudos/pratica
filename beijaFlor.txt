@@ -1,3 +1,4 @@
+git config
 arquivo orig
 Voou e foi embora
 Olha só como é lindo meu amor
