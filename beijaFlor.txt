@@ -1,5 +1,6 @@
 git config
 arquivo orig
+git config
 Voou e foi embora
 Olha só como é lindo meu amor
 Estou feliz agora
