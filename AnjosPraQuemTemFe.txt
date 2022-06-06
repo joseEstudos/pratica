@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 conflito
 Ô Lord, ô Lord, ô Lord, ô-ô!
+=======
+Ô Lord, ô Lord, ô Lord, ô-ô! mesma linha 
+>>>>>>> 60e1787be6299fdf7f1d1047bfa16d5ddf7bcc26
 https://www.linkedin.com/in/jos%C3%A9-antonio-785989230/
 https://www.linkedin.com/in/jos%C3%A9-antonio-785989230/
 Lord, Lord, Lord, Lord, Lord, Lord
