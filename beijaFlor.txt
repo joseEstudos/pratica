@@ -1,3 +1,4 @@
+bash config merge
 git config
 arquivo orig
 git config
